@@ -9,6 +9,7 @@ The goal of this project is to provide an analysis for the school district that 
 
 ### District Summary Original 
 <img width="992" alt="District Summary Original" src="https://user-images.githubusercontent.com/99099706/161341224-f1a1dc93-6bc7-4c0a-8d81-580e039628a8.png">
+
 ### District Summary Revised
 <img width="917" alt="District Summary Revised" src="https://user-images.githubusercontent.com/99099706/161341341-46a596ef-bf46-4a5f-ad05-159b5ed57905.png">
 
@@ -17,6 +18,7 @@ The goal of this project is to provide an analysis for the school district that 
 
 ### School Summary Original
 <img width="991" alt="Summary Original" src="https://user-images.githubusercontent.com/99099706/161341446-00c25884-4f17-4260-ac49-aa8af72e294e.png">
+
 ### School Summary Revised
 <img width="1000" alt="Summary Revised" src="https://user-images.githubusercontent.com/99099706/161341813-27f7bf97-5cee-4b9b-b071-7667a5cae0db.png">
 
@@ -31,6 +33,7 @@ The goal of this project is to provide an analysis for the school district that 
 
 ### Size Summary 
 <img width="796" alt="Size Summary" src="https://user-images.githubusercontent.com/99099706/161341919-4314b5cd-d874-4f5b-aeda-f774814af85c.png">
+
 ### Type Summary 
 <img width="746" alt="Type Summary" src="https://user-images.githubusercontent.com/99099706/161342222-7d655f0d-42c9-4931-8c0e-0d1d704d0b7a.png">
 
