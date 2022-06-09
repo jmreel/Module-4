@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Project Overview:
-The goal of this project is to provide an analysis for the school district that covers a snapshot of the district’s key metrics. These metrics include top 5 and bottom 5 performing schools, average math and reading score, and school performance.  Unfortunately, there was evidence to show academic dishonesty. After the analysis was completed, the information needed to be alerted, to remove Thomas High School’s ninth grade class. 
+The goal of this project is to provide an analysis for the school district that covers a snapshot of the district’s key metrics. These metrics include top 5 and bottom 5 performing schools, average math and reading score, and school performance.  Unfortunately, there was evidence to show academic dishonesty. After the analysis was completed, the information needed to be altered, to remove Thomas High School’s ninth grade class. 
 ## Results: 
 
 1. How is the district summary affected?
