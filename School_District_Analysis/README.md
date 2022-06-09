@@ -25,4 +25,4 @@ The goal of this project is to provide an analysis for the school district that 
 
 ## Summary: 
 There were a few things that were changed when we updated the 9th grade reading and math scores to “nan” at Thomas High School. One thing was that the math and reading scores by grade summary now showed “nan” for the 9th grade at Thomas High School instead of their previous scores. Another thing that changed was Thomas High School’s overall passing % dropped by 0.3%. An additional change was that their math score dropped by 0.1% and their reading score dropped by 0.3% in the school summary. Finally, the updated scores changed the overall district summary as well, with math dropping by 0.2%, reading dropping by 0.1% and the overall district passing score dropping by 0.3%. Overall, updating the 9th grade scores of Thomas High School slightly decreased percentages both for their school and for the district summary in total. 
-![image](https://user-images.githubusercontent.com/99099706/161340846-13c8228b-fc28-4ebc-8d84-eeb514b33f72.png)
+
